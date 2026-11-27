@@ -1,0 +1,14 @@
+{
+  "python": "3.14.2",
+  "numpy": "2.5.1",
+  "pillow": "12.3.0",
+  "mode": "ten heats",
+  "baseline": "d7a5db947a3692e379f48eda6592e877803e054e",
+  "units": {
+    "Sequence": "1",
+    "Time": "s",
+    "Oxygen": "m3",
+    "CO2": "m3/s",
+    "CO": "m3/s"
+  }
+}

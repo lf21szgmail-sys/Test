@@ -1,0 +1,6 @@
+ID,炉次,坐标,观察事实,待验证解释,状态,审批
+B-Q2-DQ001,6C02060,2–44.5 s,CO和CO2存在多段内部零值,零编码或物理过程变化,Observed Fact,Pending
+B-Q2-DQ002,6C02057,0–387 s,供氧窗口均值9.1385 m3/s,工况或窗口差异,Observed Fact,Pending
+B-Q2-DQ003,6C02057,Excel 753→754,三变量同步大幅变化,工艺切换或采集保持和对时变化,Observed Fact,Pending
+B-Q2-DQ004,全部,原始相邻转移,数值更新率低于2 Hz,量化或更新机制待查,Observed Fact,Pending
+B-Q2-DQ005,全部,0–30 s探索扫描,多数最优值在搜索边界,共同趋势或机制混合,Observed Fact,Pending

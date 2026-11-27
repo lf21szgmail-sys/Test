@@ -1,0 +1,4 @@
+attachment,heat,file,sha256,rows,columns,sheet,excel_range,source_headers,eda_match
+1,6B03205,附件1.炉号-6B03205.xlsb,8c73aaefadb9c8d8c3f83b193d9b4583dcfdfb239446c69b7eacd4120820783c,1479,2051,6B03205,A2:BZW1480,"['序列', '累积耗氧量', 'CO2浓度', 'CO浓度']",True
+2,6B03206,Attachment 2. Heat No. 6B03206.xlsb,6a0558bcf4d02316e805fd566d441a21ff14f8c151d09dffc5a786608cf84c46,1311,2051,6B03206,A2:BZW1312,"['Sequence', 'YQXH', 'CO₂ concentration', 'CO concentration']",True
+5,6C02057,Attachment 5. Heat No. 6C02057.xlsb,f8b4e18a408a61bf1fed4303f9554ae1d4aec0a643da076cc1ddffe89a1a5d59,775,2051,6C02057,A2:BZW776,"['序列Sequence', 'Cumulative oxygen consumption', 'CO₂ concentration', 'CO concentration']",True
